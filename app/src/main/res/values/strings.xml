@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title">Calculadora de propinas</string>
+    <string name="total">Total de la cuenta</string>
+    <string name="propina">La propina es de: %s</string>
+    <string name="porcentaje">Porcentaje de la propina</string>
+</resources>
